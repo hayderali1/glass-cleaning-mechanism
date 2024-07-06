@@ -4,4 +4,4 @@ This cleaning system is specifically designed to maintain clear visibility for m
 # THE LIST OF SENSORS AND ACTUATORS
 1-DHT11 humidity and tempreture sensor
 2-Wind-shield DC Motor
-3- 5 V electronic relay
+3-electronic relay
