@@ -8,3 +8,5 @@ This cleaning system is specifically designed to maintain clear visibility for m
 2-Wind-shield DC Motor
 
 3-Electronic relay
+
+Live demo link: https://youtube.com/shorts/BTMbYjzf2zs?si=pOzLP1zsNbjJGj9a
